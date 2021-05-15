@@ -1,2 +1,3 @@
-# optical-character
+# Optical-character Recognition using JAVA
+
 
