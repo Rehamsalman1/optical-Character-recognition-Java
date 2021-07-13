@@ -2,7 +2,9 @@
 
 Digit Recognition
 
-This work was done to build a machine learning system to categorise one of the UCI digits. Then I ran a two-fold test, and reported your results.
+Objective - This work was done to build a machine learning system to categorise one of the UCI digits. Then I ran a two-fold test, and reported your results.
+
+The data is from the University of California at Irvine's Machine Learning Repository. It's the Optical Recognition of Handwritten Digits Data Set. This gives you two data sets, training set and a test set. I've converted them to two data sets data set 1 , and data set 2 respectively.
 
 The Artificial neural network was used to help identify the digits with the labelled dataset. It was a supervised learning model as we were provided with random raw data and labelled digits to match with. There are essentially three main layers of the model. The input layer with digits, the Hidden layer is where all the training and learning takes place and transformation of the inputs to a non-linear function. The output layer holds the output values that will then be used to match with provided labelled data. 
 
