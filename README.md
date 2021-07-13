@@ -13,4 +13,4 @@ Best results
 ![image](https://user-images.githubusercontent.com/42086991/125522550-57dd6bfa-0196-4d5f-a3e2-22c640e4eb9c.png)
 
 
-Initially the learning rate and cycles parameters had to be tuned to reach a good accuracy. The best results were found from keeping the learning rate 0.03 and the cycles as 130.![image](https://user-images.githubusercontent.com/42086991/125522671-d7e61865-bfb0-4140-b2c6-df4bfda2d064.png)
+Initially the learning rate and cycles parameters had to be tuned to reach a good accuracy. The best results were found from keeping the learning rate 0.03 and the cycles as 130.
