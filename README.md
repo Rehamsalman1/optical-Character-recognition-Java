@@ -2,7 +2,7 @@
 
 Digit Recognition
 
-Objective - This work was done to build a machine learning system to categorise one of the UCI digits. Then I ran a two-fold test, and reported your results.
+Objective - This work was done to build a machine learning system to categorise one of the UCI digits. Then I ran a two-fold test, and reported the results.
 
 The data is from the University of California at Irvine's Machine Learning Repository. It's the Optical Recognition of Handwritten Digits Data Set. This gives you two data sets, training set and a test set. I've converted them to two data sets data set 1 , and data set 2 respectively.
 
