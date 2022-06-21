@@ -14,5 +14,10 @@ I decided to use the multilayer perceptron model for this project because the ML
 Best results
 ![image](https://user-images.githubusercontent.com/42086991/125522550-57dd6bfa-0196-4d5f-a3e2-22c640e4eb9c.png)
 
+As the screenshot illustrates above the accuracy on the testing set is 93%. In my approach I only used one hidden layer in the neural network however used the number of neurons as a parameter to increase my accuracy percentage.
+
+ I have used sigmoid in my initial layer where the inputs are being multiplied by the weights at the hidden layer. For the output and hidden layer, I used the threshold activation function which is mapped against the desired output to calculate the error. 
+
+The code has several methods each performing one function of the multilayer perceptron model. For the desired output array, I used the one hot encoding method and used that to match against my actual output array that I got after applying the specified activation functions. Furthermore, to reach the output illustrated above in the fig 1.1 the learning rate I applied on the code was 0.03 and the cycles as 130 with no of hidden neurons being 50.
 
 Initially the learning rate and cycles parameters had to be tuned to reach a good accuracy. The best results were found from keeping the learning rate 0.03 and the cycles as 130.
