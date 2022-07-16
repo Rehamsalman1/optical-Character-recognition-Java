@@ -3,7 +3,7 @@
 Digit Recognition
 
 ## Objective
-The objective was to build a machine learning system(neural network) to train the data set to classify the handwritten UCI digits into numbers between 0-9.
+The objective was to build a machine learning system(neural network) to train the data set provided to successfully classify the handwritten UCI digits into numbers between 0-9.
 
 ## Data
 The data is from the University of California at Irvine's Machine Learning Repository. It's the Optical Recognition of Handwritten Digits Data Set. This gives you two data sets, training set and a test set. I've converted them to two data sets data set 1 , and data set 2 respectively.
