@@ -22,7 +22,7 @@ The code has several steps each performing one function of the multilayer percep
 I decided to use the multilayer perceptron model (MLP) for this project because the MLP is often applied to supervised learning problems and train on inputs and outputs. Therefore, with having the inputs and outputs given the MLP was the best approach for training the datasets.
 
 
-# Testing Results
+## Testing Results
 ![image](https://user-images.githubusercontent.com/42086991/125522550-57dd6bfa-0196-4d5f-a3e2-22c640e4eb9c.png)
 
 As the screenshot illustrates above the accuracy on the testing set is 93%. In my approach I only used one hidden layer in the neural network however used the number of neurons as a parameter to increase my accuracy percentage.
